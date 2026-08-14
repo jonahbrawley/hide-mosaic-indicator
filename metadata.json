@@ -1,0 +1,7 @@
+{
+  "uuid": "hide-mosaic-indicator",
+  "name": "Hide Mosaic Indicator",
+  "description": "Hides the Mosaic WM indicator from the GNOME panel.",
+  "shell-version": ["50"],
+  "version": 1
+}
